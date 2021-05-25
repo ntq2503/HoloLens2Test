@@ -1,1 +1,3 @@
-# HoloLens2Tutorial
+# HoloLens2Test
+
+First-hand experience with HoloLens2
